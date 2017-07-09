@@ -1,0 +1,37 @@
+@font-face {
+	font-family: "Exo2.0-Bold";
+	src: url("fonts/exo/Exo2.0-Bold.otf");
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: "Exo2.0-Light";
+	src: url("fonts/exo/Exo2.0-Light.otf");
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: "Exo2.0-Regular";
+	src: url("fonts/exo/Exo2.0-Regular.otf");
+	font-style: normal;
+	font-weight: normal;
+}
+
+
+@font-face {
+	font-family: "Exo2.0-Thin";
+	src: url("fonts/exo/Exo2.0-Thin.otf");
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+    font-family: "Exo2.0-ThinItalic";
+    src: url("fonts/exo/Exo2.0-ThinItalic.otf");
+    font-style: normal;
+    font-weight: normal;
+}
+
+

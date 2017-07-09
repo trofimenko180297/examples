@@ -1,0 +1,232 @@
+
+
+/*==========  Mobile First Method  ==========*/
+
+/* Custom, iPhone Retina */
+
+
+
+
+/* Large Devices, Wide Screens */
+@media only screen and (max-width : 1200px) {
+
+    .opacity-bg {
+        margin: 0 80px;
+
+    }
+
+
+    .send-btn {
+        padding: 15px 118px;
+    }
+
+
+    .img img{
+        margin-top: 30px;
+    }
+}
+
+
+
+/* Medium Devices, Desktops */
+@media only screen and (max-width : 992px) {
+
+
+    .text{
+        text-align: center;
+    }
+
+    .text2 h1{
+        margin-bottom: 40px;
+    }
+
+    .plashka{
+
+        margin-right: 105px;
+    }
+
+
+    .text3{
+        text-align: center;
+    }
+
+
+
+    .third-bg .row{
+        margin-left: 0;
+    }
+
+    .img{
+        text-align: center;
+    }
+
+    .img img{
+        margin-bottom: 10px;
+        margin-left: 30px;
+    }
+
+    .botter{
+        margin-left: 0;
+    }
+
+    .list2{
+        text-align: center;
+    }
+
+
+    .text3 textarea{
+        margin-bottom: 20px;
+    }
+
+
+}
+
+
+
+
+
+
+
+
+
+
+/* Small Devices, Tablets */
+@media only screen and (max-width : 768px) {
+
+    .top-btn{
+        float: none;
+    }
+
+    .extra-sm{
+        text-align: center;
+    }
+
+
+    .list ul{
+        margin-left: 0;
+        padding: 0;
+    }
+
+    .plashka{
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+    .text3{
+        margin-left: -15px;
+    }
+
+
+    .fixed-left{
+        margin-right: 100px;
+    }
+
+}
+
+
+
+
+
+
+
+
+/* Extra Small Devices, Phones */
+@media only screen and (max-width : 480px) {
+
+    .fourth-bg img{
+        width: 100%;
+    }
+
+    .logo{
+        width: 100%;
+    }
+
+    .send-btn {
+        padding: 15px 85px;
+    }
+
+
+    .fixed-left{
+        margin-right: 45px;
+    }
+
+    .otstyp{
+        margin-top: 30px;
+    }
+
+    .send-btn3{
+        display: none;
+    }
+
+    .list2 li{
+        display: block;
+        margin-right: 0;
+    }
+
+    .list2 ul{
+        padding: 0;
+    }
+
+
+    .opacity-bg {
+        margin: 0 20px;
+        border: 1px #ffffff solid;
+    }
+
+
+    .modal .send-btn {
+        padding: 15px 120px;
+    }
+
+
+
+}
+
+
+@media only screen and (max-width: 375px) {
+
+    .send-btn {
+        padding: 15px 58px;
+    }
+
+    .modal .send-btn {
+        padding: 15px 105px;
+    }
+
+    .send-btn2 {
+        padding: 10px 70px;
+
+    }
+
+}
+
+
+
+@media only screen and (max-width: 320px) {
+
+
+
+    .opacity-bg {
+        margin: 0 5px;
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+
+    .send-btn {
+        padding: 15px 39px;
+    }
+
+
+    .send-btn2 {
+
+        padding: 10px 50px;
+
+    }
+
+
+    .modal .send-btn {
+        padding: 15px 75px;
+    }
+
+}

@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>JavaScript</title>
+    <script type="text/javascript">
+        function date()
+        {
+            var data = new Date();
+            document.getElementById("count").innerHTML = data.getHours() +":"+ data.getMinutes() +":"+ data.getSeconds();
+            setTimeout("date()", 1000);
+        }
+    </script>
+</head>
+<body onload="date()">
+    Таймер : <span id="count"></span>
+</body>
+</html>

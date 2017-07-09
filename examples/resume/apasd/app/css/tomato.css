@@ -1,0 +1,72 @@
+body {
+  color: #222;
+  letter-spacing: 1px; }
+
+a {
+  color: #FF6347; }
+
+p,
+body .main_footer,
+.s_about li {
+  color: #888; }
+
+.color_element {
+  color: #FF6347; }
+
+.color_bg {
+  background-color: #FF6347; }
+
+.color_border {
+  border-color: #FF6347; }
+
+.main_color_bg {
+  background-color: #222; }
+
+.top_mnu {
+  letter-spacing: 5px; }
+  .top_mnu a:hover {
+    color: #FF6347;
+    background-color: rgba(255, 255, 255, 0.07); }
+
+.top_text p {
+  color: #FAFAFA;
+  letter-spacing: 5px; }
+
+.top_text h1 {
+  letter-spacing: 2px; }
+
+.bg_light {
+  background-color: #FAFAFA; }
+
+.bg_dark {
+  background-color: #222;
+  color: #fff; }
+  .bg_dark .s_descr::after {
+    background-color: #FFF; }
+  .bg_dark a {
+    color: #fff; }
+
+.s_descr {
+  letter-spacing: 5px; }
+  .s_descr::after {
+    background-color: #222; }
+
+section h3 {
+  letter-spacing: 3px;
+  color: #888; }
+
+.s_about p:nth-child(even) {
+  color: #FF6347; }
+
+.personal_header {
+  letter-spacing: 2px; }
+
+.resume_container h3 {
+  color: #222;
+  letter-spacing: 1px; }
+
+.resume_item .year {
+  background-color: #FF6347; }
+
+.resume_item .resume_description {
+  letter-spacing: 1px; }

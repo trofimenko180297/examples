@@ -1,0 +1,15 @@
+#form {
+    text-align: center;
+}
+
+#result {
+    text-align: center;
+    padding: 5px;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+h3{
+    text-align: center;
+}
