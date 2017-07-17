@@ -1,4 +1,4 @@
-task-application.zzz.com.ua
+http://task-application.zzz.com.ua
 
 admin-panel:
 login: admin
