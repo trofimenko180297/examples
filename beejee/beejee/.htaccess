@@ -1,8 +1,0 @@
-<IfModule mod_rewrite.c>
-   RewriteEngine on
-
-   RewriteRule ^dayside/?([^/].*)?$ dayside/$1 [L]
-
-   RewriteRule ^$ webroot/ [L]
-   RewriteRule (.*) webroot/$1 [L]
-</IfModule>
