@@ -1,7 +1,7 @@
 <?php
 require_once ('classSimpleImage.php');
 
-$image = new SimpleImage();
+$image = new Image();
 $image->load($_FILES['picture']['tmp_name']);
 $image->resize(400, 200);
 $image->save('image1.jpg');
